@@ -1606,6 +1606,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Seventy-Sixth Product - Faux White Calla Lilies */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/white-faux-calla-lilies.png"
+                    alt="Faux White Calla Lilies"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">Faux White Calla Lilies</p>
+                <a
+                  href="https://www.amazon.com/dp/B0HBPNJ532?asc_item-id=amzn1.ideas.L6A30862KGUZ&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=bacece6b7d1efde4acca2f613766c965&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
