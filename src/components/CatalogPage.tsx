@@ -1626,6 +1626,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Seventy-Seventh Product - Faux White Orchids */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/faux-white-orchids.png"
+                    alt="Faux White Orchids"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">Faux White Orchids</p>
+                <a
+                  href="https://www.amazon.com/Artificial-Phalaenopsis-Arrangement-Centerpiece-Decorations/dp/B0BLK7TMCY?crid=RYU4MWFQVL6M&dib=eyJ2IjoiMSJ9.7t2E7nHbH2QIan-WNNd52V2eBmiUiX_mnN55Hw5ouOipXjG9Ta7ShcBdM5gvPqITUbm63bvNB8xEOQiC76OIiQO_-kOOd9n7mjxo4k80HM-xnfVmc3dbjoG-ji1LCQMMCbbTKI1s6qcNAT1BABA-tLLo65XsME-hGQqtonZXyCHjk-9bPfS3K0TczrEAUk2LBRe7syoHTJPqnK5gXl_1341xCtksoEzkPZUzJZSzqOpO7NgNKe3HRh52DlQiCHW_ITaM6ky-SdNxxii-dhP3Xmb57D2WbnVMqw-InRbrKk4.qE3j89JHhW4QbhQWxcA68_ecH_Sm306nGNIqpytqDjE&dib_tag=se&keywords=white+fake+orchids&qid=1792974191&sprefix=white+fake+orchi%2Caps%2C198&sr=8-12-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&linkCode=ll2&tag=maisonpacem05-20&linkId=37fee171c177442345e81b76bcf8860d&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
