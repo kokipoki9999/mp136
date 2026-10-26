@@ -1666,6 +1666,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Seventy-Ninth Product - Brown Pillow Cover */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/brown-floral-pillow-cover.png"
+                    alt="Brown Pillow Cover"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">Brown Pillow Cover</p>
+                <a
+                  href="https://www.amazon.com/Alerfa-Floral-Pillow-Decorative-Bedroom/dp/B0F9SRNFT4?content-id=amzn1.sym.65ab1892-b11f-49dc-9c2f-f8ae227fc274%3Aamzn1.sym.65ab1892-b11f-49dc-9c2f-f8ae227fc274&crid=33ZGF97RIERBJ&cv_ct_cx=classy+throw+pillows&keywords=classy+throw+pillows&pd_rd_i=B0F9SRNFT4&pd_rd_r=6189e92b-a437-47ad-8622-dc71dc502ffe&pd_rd_w=2kXlU&pd_rd_wg=jmEyx&pf_rd_p=65ab1892-b11f-49dc-9c2f-f8ae227fc274&pf_rd_r=5J0GM8B7AREW5X9ST33W&qid=1792975384&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=classy+throw+pillow%2Caps%2C202&sr=1-1-e169343e-09af-4d41-85b1-8335fe8f32d0-spons&aref=u4E1EIvIuT&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1&linkCode=ll2&tag=maisonpacem05-20&linkId=0017a17566800cdf8a272032b726c825&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
