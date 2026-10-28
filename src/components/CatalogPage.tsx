@@ -544,18 +544,14 @@ export function CatalogPage() {
                 <button
                   type="button"
                   onClick={() => setActiveCategory('all')}
-                  className={`block text-left transition-colors ${
-                    activeCategory === 'all' ? 'text-black font-medium' : 'text-gray-600 hover:text-black'
-                  }`}
+                  className="block bg-transparent border-0 rounded-none p-0 text-left text-black font-normal"
                 >
                   "LA SÉLECTION VARIÉE"
                 </button>
                 <button
                   type="button"
                   onClick={() => setActiveCategory('vases')}
-                  className={`block text-left transition-colors ${
-                    activeCategory === 'vases' ? 'text-black font-medium' : 'text-gray-600 hover:text-black'
-                  }`}
+                  className="block bg-transparent border-0 rounded-none p-0 text-left text-black font-normal"
                 >
                   VASES
                 </button>
