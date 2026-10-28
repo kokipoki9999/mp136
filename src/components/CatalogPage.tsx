@@ -553,7 +553,7 @@ export function CatalogPage() {
                   onClick={() => setActiveCategory('vases')}
                   className="block bg-transparent border-0 rounded-none p-0 text-left text-black font-normal"
                 >
-                  VASES
+                  Vases
                 </button>
               </div>
             </div>
