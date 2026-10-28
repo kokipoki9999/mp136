@@ -490,13 +490,20 @@ export function CatalogPage() {
   }, []);
 
   const [sortOrder, setSortOrder] = useState<'recent' | 'oldest'>('recent');
+  const [activeCategory, setActiveCategory] = useState<'all' | 'vases'>('all');
+
+  const vaseProducts = useMemo(
+    () => PRODUCTS.filter((p) => /vase/i.test(p.alt) || /vase/i.test(p.name)),
+    []
+  );
 
   const orderedProducts = useMemo(() => {
+    const base = activeCategory === 'vases' ? vaseProducts : PRODUCTS;
     if (sortOrder === 'oldest') {
-      return PRODUCTS;
+      return base;
     }
-    return [...PRODUCTS].reverse();
-  }, [sortOrder]);
+    return [...base].reverse();
+  }, [sortOrder, activeCategory, vaseProducts]);
 
   return (
     <div className="min-h-screen bg-white">
@@ -534,7 +541,24 @@ export function CatalogPage() {
             <div className="mb-8">
               <h3 className="text-sm font-medium mb-4">CATÉGORIES</h3>
               <div className="space-y-2 text-sm">
-                <div>"LA SÉLECTION VARIÉE"</div>
+                <button
+                  type="button"
+                  onClick={() => setActiveCategory('all')}
+                  className={`block text-left transition-colors ${
+                    activeCategory === 'all' ? 'text-black font-medium' : 'text-gray-600 hover:text-black'
+                  }`}
+                >
+                  "LA SÉLECTION VARIÉE"
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setActiveCategory('vases')}
+                  className={`block text-left transition-colors ${
+                    activeCategory === 'vases' ? 'text-black font-medium' : 'text-gray-600 hover:text-black'
+                  }`}
+                >
+                  VASES
+                </button>
               </div>
             </div>
 
