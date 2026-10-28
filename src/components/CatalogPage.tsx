@@ -482,6 +482,12 @@ const PRODUCTS: Product[] = [
     name: 'Brown Pillow Cover',
     href: 'https://www.amazon.com/Alerfa-Floral-Pillow-Decorative-Bedroom/dp/B0F9SRNFT4?content-id=amzn1.sym.65ab1892-b11f-49dc-9c2f-f8ae227fc274%3Aamzn1.sym.65ab1892-b11f-49dc-9c2f-f8ae227fc274&crid=33ZGF97RIERBJ&cv_ct_cx=classy+throw+pillows&keywords=classy+throw+pillows&pd_rd_i=B0F9SRNFT4&pd_rd_r=6189e92b-a437-47ad-8622-dc71dc502ffe&pd_rd_w=2kXlU&pd_rd_wg=jmEyx&pf_rd_p=65ab1892-b11f-49dc-9c2f-f8ae227fc274&pf_rd_r=5J0GM8B7AREW5X9ST33W&qid=1792975384&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=classy+throw+pillow%2Caps%2C202&sr=1-1-e169343e-09af-4d41-85b1-8335fe8f32d0-spons&aref=u4E1EIvIuT&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1&linkCode=ll2&tag=maisonpacem05-20&linkId=0017a17566800cdf8a272032b726c825&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
   },
+  {
+    src: '/accent-dining-table.png',
+    alt: 'Brown Oval Dining Table',
+    name: 'Brown Oval Dining Table',
+    href: 'https://www.amazon.com/Tov-Furniture-Gladyss-Brown-Dining/dp/B0DTQB1KQR?pd_rd_w=H24fo&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=0WDQKYZN3NP7XX5MX2MW&pd_rd_wg=uP6dp&pd_rd_r=0a6f0d07-656e-411d-8741-614ee5d2a88a&pd_rd_i=B0DTQB1KQR&psc=1&linkCode=ll2&tag=maisonpacem05-20&linkId=37a333c8338c9a63db9ecf55d51ae53e&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
+  },
 ];
 
 export function CatalogPage() {
