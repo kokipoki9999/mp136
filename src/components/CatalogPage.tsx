@@ -494,6 +494,12 @@ const PRODUCTS: Product[] = [
     name: 'Tall Black Table Lamp',
     href: 'https://www.amazon.com/Henn-Hart-Ingalls-Monochrome-Fabric/dp/B0BVG3LMNZ?pd_rd_w=ZmtcG&content-id=amzn1.sym.2c4fdd8f-9c72-4bb9-9201-dcd0e5352a81&pf_rd_p=2c4fdd8f-9c72-4bb9-9201-dcd0e5352a81&pf_rd_r=4YAHQ6WBMR4QEKK6MQ37&pd_rd_wg=liKaa&pd_rd_r=79dc3866-bd7f-458d-a93e-1b7d46540893&pd_rd_i=B0BVG3LMNZ&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D&linkCode=ll2&tag=maisonpacem05-20&linkId=04bd4d3eade06af78f5a8955d69b166b&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
   },
+  {
+    src: '/tall-accent-lamp-modern.png',
+    alt: 'Large Black & White Table Lamp',
+    name: 'Large Black & White Table Lamp',
+    href: 'https://www.amazon.com/Henn-Hart-Table-Blackened-Bronze/dp/B0BRSXJ8QC?ie=UTF8&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=349512726993647d1bc2b0d375b27183&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
+  },
 ];
 
 export function CatalogPage() {
