@@ -500,6 +500,12 @@ const PRODUCTS: Product[] = [
     name: 'Large Black & White Table Lamp',
     href: 'https://www.amazon.com/Henn-Hart-Table-Blackened-Bronze/dp/B0BRSXJ8QC?ie=UTF8&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=349512726993647d1bc2b0d375b27183&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
   },
+  {
+    src: '/scultpural-black-table-lamp.png',
+    alt: 'Accent Table Lamp',
+    name: 'Accent Table Lamp',
+    href: 'https://www.amazon.com/SWEMOPP-Distressed-Farmhouse-Decorative-Nightstand/dp/B0CYCLDMX9?pd_rd_w=J3sO6&content-id=amzn1.sym.c381f488-9701-4c18-ae72-5ad6d4fe9c16&pf_rd_p=c381f488-9701-4c18-ae72-5ad6d4fe9c16&pf_rd_r=KMNN75TXEEPDG1395KBA&pd_rd_wg=Lw5D9&pd_rd_r=5d9ca484-b9a8-4eb1-ad22-beea2c175ea2&pd_rd_i=B0CYCLDMX9&psc=1&ie=UTF8&psc=1&sloctc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D&linkCode=ll2&tag=maisonpacem05-20&linkId=344efb3530f13c4eea89c9b14fb4cca9&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
+  },
 ];
 
 export function CatalogPage() {
