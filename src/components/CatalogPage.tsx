@@ -488,6 +488,12 @@ const PRODUCTS: Product[] = [
     name: 'Brown Oval Dining Table',
     href: 'https://www.amazon.com/Tov-Furniture-Gladyss-Brown-Dining/dp/B0DTQB1KQR?pd_rd_w=H24fo&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=0WDQKYZN3NP7XX5MX2MW&pd_rd_wg=uP6dp&pd_rd_r=0a6f0d07-656e-411d-8741-614ee5d2a88a&pd_rd_i=B0DTQB1KQR&psc=1&linkCode=ll2&tag=maisonpacem05-20&linkId=37a333c8338c9a63db9ecf55d51ae53e&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
   },
+  {
+    src: '/tall-black-modern-lamp.png',
+    alt: 'Tall Black Table Lamp',
+    name: 'Tall Black Table Lamp',
+    href: 'https://www.amazon.com/Henn-Hart-Ingalls-Monochrome-Fabric/dp/B0BVG3LMNZ?pd_rd_w=ZmtcG&content-id=amzn1.sym.2c4fdd8f-9c72-4bb9-9201-dcd0e5352a81&pf_rd_p=2c4fdd8f-9c72-4bb9-9201-dcd0e5352a81&pf_rd_r=4YAHQ6WBMR4QEKK6MQ37&pd_rd_wg=liKaa&pd_rd_r=79dc3866-bd7f-458d-a93e-1b7d46540893&pd_rd_i=B0BVG3LMNZ&psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D&linkCode=ll2&tag=maisonpacem05-20&linkId=04bd4d3eade06af78f5a8955d69b166b&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
+  },
 ];
 
 export function CatalogPage() {
