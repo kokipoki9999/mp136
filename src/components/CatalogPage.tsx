@@ -506,6 +506,12 @@ const PRODUCTS: Product[] = [
     name: 'Accent Table Lamp',
     href: 'https://www.amazon.com/SWEMOPP-Distressed-Farmhouse-Decorative-Nightstand/dp/B0CYCLDMX9?pd_rd_w=J3sO6&content-id=amzn1.sym.c381f488-9701-4c18-ae72-5ad6d4fe9c16&pf_rd_p=c381f488-9701-4c18-ae72-5ad6d4fe9c16&pf_rd_r=KMNN75TXEEPDG1395KBA&pd_rd_wg=Lw5D9&pd_rd_r=5d9ca484-b9a8-4eb1-ad22-beea2c175ea2&pd_rd_i=B0CYCLDMX9&psc=1&ie=UTF8&psc=1&sloctc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D&linkCode=ll2&tag=maisonpacem05-20&linkId=344efb3530f13c4eea89c9b14fb4cca9&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
   },
+  {
+    src: '/ikebana-vase.png',
+    alt: 'Ikebana Pebble Vase',
+    name: 'Ikebana Pebble Vase',
+    href: 'https://www.amazon.com/dp/B0DCF7NMH5?pd_rd_i=B0DCFLSLLJ&pd_rd_w=az7wV&content-id=amzn1.sym.4f5afe61-a551-4f21-a495-c7c4f2997a96&pf_rd_p=4f5afe61-a551-4f21-a495-c7c4f2997a96&pf_rd_r=JWE5GS57XHZYQZ874932&pd_rd_wg=BpGNH&pd_rd_r=bb962810-447c-410a-aa3f-761e782e6a43&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=f029ca2ca58d2e134dffdc9465d363c9&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
+  },
 ];
 
 export function CatalogPage() {
