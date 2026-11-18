@@ -507,6 +507,12 @@ const PRODUCTS: Product[] = [
     href: 'https://www.amazon.com/SWEMOPP-Distressed-Farmhouse-Decorative-Nightstand/dp/B0CYCLDMX9?pd_rd_w=J3sO6&content-id=amzn1.sym.c381f488-9701-4c18-ae72-5ad6d4fe9c16&pf_rd_p=c381f488-9701-4c18-ae72-5ad6d4fe9c16&pf_rd_r=KMNN75TXEEPDG1395KBA&pd_rd_wg=Lw5D9&pd_rd_r=5d9ca484-b9a8-4eb1-ad22-beea2c175ea2&pd_rd_i=B0CYCLDMX9&psc=1&ie=UTF8&psc=1&sloctc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D&linkCode=ll2&tag=maisonpacem05-20&linkId=344efb3530f13c4eea89c9b14fb4cca9&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
   },
   {
+    src: '/golden-black-sculptural-vase.png',
+    alt: 'Golden Black Vase',
+    name: 'Golden Black Vase',
+    href: 'https://www.amazon.com/gp/aw/d/B0GHMS4XS3?pd_rd_plhdr=t&hsa_cr_id=0&qid=1795038200&sr=1-1-5a5562f9-fdfd-4101-9f9d-d76aa9998432&i=garden&aref=dy5jvuDxKl&_encoding=UTF8&pf_rd_p=90f77631-9599-4fe0-95f8-a40adfe1c762&pf_rd_r=2VNE2K6NEZHRJ2GR696T&pd_rd_wg=oy4LW&pd_rd_w=atPwZ&content-id=amzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762%3Aamzn1.sym.90f77631-9599-4fe0-95f8-a40adfe1c762&pd_rd_r=a177eef3-18e1-4b39-8edf-b358e6454716&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=12c8ebdc607611794a4d187a56f07dce&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl',
+  },
+  {
     src: '/ikebana-vase.png',
     alt: 'Ikebana Pebble Vase',
     name: 'Ikebana Pebble Vase',
